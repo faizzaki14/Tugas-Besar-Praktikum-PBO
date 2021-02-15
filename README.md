@@ -28,8 +28,8 @@ by kelompok 11 :
  - untuk menu yang terakhir yaitu menu untuk keluar
 
 ## SS Demo 
-![SS demo in googles photo]
-(https://photos.google.com/u/1/)
+![SS demo in googles drive]
+(https://drive.google.com/drive/folders/1Jc8-jW54ybuF4S3-tHeuVaEy2XPrUowc?usp=sharing)
 
 ## Link youtube
 [https://youtu.be/Ep7PVG0CrZ8]
