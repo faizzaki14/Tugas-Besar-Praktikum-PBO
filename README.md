@@ -1,5 +1,6 @@
 # Tugas-Besar-Praktikum-PBO
 PROGRAM TUGAS BESAR MATAKULIAH PEMROGRAMAN BERBASIS OBJEK (PBO)
+KELAS S1SE03B REKAYASA PERANGKAT LUNAK IT TELKOM PURWOKERTO
 ~~# Tugas Besar Prak PBO
 ## Program Sederhana Pendaftaran Siswa Baru menggunakan Java Script
 by kelompok 11 :
