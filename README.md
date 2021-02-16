@@ -23,7 +23,7 @@ Adapun tujuan dibuatnya aplikasi ini adalah untuk menyeleksi/menyaring anak2 yan
  - untuk menu yang terakhir yaitu menu untuk keluar
 
 ## Class Diagram
-
+![Class Diagram Tubes](https://user-images.githubusercontent.com/56437913/108015606-2624d580-7043-11eb-9f5a-72e97ed83cd9.jpg)
 
 ## SS Demo 
 ![SS demo in googles Drive]
