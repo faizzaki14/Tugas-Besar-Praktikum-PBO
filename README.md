@@ -5,7 +5,7 @@ KELAS S1SE03B REKAYASA PERANGKAT LUNAK IT TELKOM PURWOKERTO
 ## Program Sederhana Pendaftaran Siswa Baru menggunakan Java Script
 by kelompok 11 :
  - Faiz Zaki Ramadhan	- 19104075
- - Gilang Aditia	- 19104043
+ - Gilang Aditia  	- 19104043
  - Reva Rahardian	- 19104076
 ## Latar Belakang	
 	Pada Tugas Besar Praktikum PBO ini, kelompok kami membuat sebuah program js tentang pendaftaran Siswa pada sample sekolah yang kami buat sendiri yaitu SMKN 1 RKPL. Nah nantinya program ini bertujuan untuk menentukan siswa tersebut lulus atau tidak, nantinya calon siswa bisa mengakses 4 case, yang dimana pada case 1 para calon siswa diminta untuk mengisi formulir pendaftaran, dengan mengisi data diri sendiri dan data orang tua/wali. 
@@ -13,7 +13,7 @@ by kelompok 11 :
 	Dan dicase ke-3 para calon siswa bisa melihat informasi data diri mereka secara lengkap, baik dari data diri sampai nilainya, dan untuk case ke-4 adalah case hasil seleksi yang nantinya siswa bisa melihat apakah mereka lulus atau tidak.
 ## Tujuan
 Adapun tujuan dibuatnya aplikasi ini adalah untuk menyeleksi/menyaring anak2 yang akan memasuki sekolah menengah atas/kejuruan dengan patokan nilai akhir mereka.
-	Program pendaftaran SMKN1 RPL ini merupakan sebuah program untuk melakukan pendaftaran smk dengan menerapkan methode input data diri, input data orang tua, input nilai, informasi data diri, dan hasil seleksi, nantinya calon siswa menginputkan data diri serta data orang tua mereka, kemudian mengisi inputan nilai akhir average (rata-rata) dari semester 1-5, lalu calon siswa bisa melihat informasi data diri mereka beserta nomor pendaftaran kemudian bisa melihat apakah  mereka lulus atau tidak, untuk menentukan lulus sistem akan menerapkan jika nilai <=75 - =100 maka siswa akan lulus, namun jika nilai <75 maka siswa dinyatakan tidak lulus pendaftaran
+	Program pendaftaran SMKN1 RPL ini merupakan sebuah program untuk melakukan pendaftaran smk dengan menerapkan methode input data diri, input data orang tua, input nilai, informasi data diri, dan hasil seleksi, nantinya calon siswa menginputkan data diri serta data orang tua mereka, kemudian mengisi inputan nilai akhir average semester 1-5, lalu calon siswa bisa melihat informasi data diri mereka beserta nomor pendaftaran kemudian bisa melihat apakah  mereka lulus atau tidak, untuk menentukan lulus sistem akan menerapkan jika nilai <=75  - =100 maka siswa akan lulus, namun jika nilai <75 maka siswa tidak lulus pendaftaran.
  
 ## Fitur dan Cara Penggunaan~
  - Clone this repo 
