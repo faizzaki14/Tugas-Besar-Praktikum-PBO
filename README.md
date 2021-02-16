@@ -12,16 +12,16 @@ by kelompok 11 :
 	Dan dicase ke-3 para calon siswa bisa melihat informasi data diri mereka secara lengkap, baik dari data diri sampai nilainya, dan untuk case ke-4 adalah case hasil seleksi yang nantinya siswa bisa melihat apakah mereka lulus atau tidak.
 ## Tujuan
 Adapun tujuan dibuatnya aplikasi ini adalah untuk menyeleksi/menyaring anak2 yang akan memasuki sekolah menengah atas/kejuruan dengan patokan nilai akhir mereka.
-Program pendaftaran smkn1 rpl merupakan sebuah program untuk melakukan pendaftaran smk dengan menerapkan methode input data diri, input data orang tua, input nilai, informasi data diri, dan hasil seleksi, nantinya calon siswa menginputkan data diri serta data orang tua mereka, kemudian mengisi inputan nilai akhir average semester 1-5, lalu calon siswa bisa melihat informasi data diri mereka beserta nomor pendaftaran kemudian bisa melihat apakah  mereka lulus atau tidak, untuk menentukan lulus sistem akan menerapkan jika nilai <=75  - =100 maka siswa akan lulus, namun jika nilai <75 maka siswa tidak lulus pendaftaran.
+	Program pendaftaran SMKN1 RPL ini merupakan sebuah program untuk melakukan pendaftaran smk dengan menerapkan methode input data diri, input data orang tua, input nilai, informasi data diri, dan hasil seleksi, nantinya calon siswa menginputkan data diri serta data orang tua mereka, kemudian mengisi inputan nilai akhir average semester 1-5, lalu calon siswa bisa melihat informasi data diri mereka beserta nomor pendaftaran kemudian bisa melihat apakah  mereka lulus atau tidak, untuk menentukan lulus sistem akan menerapkan jika nilai <=75  - =100 maka siswa akan lulus, namun jika nilai <75 maka siswa tidak lulus pendaftaran.
  
 ## Fitur dan Cara Penggunaan~
- - clone this repo 
- - run program dengan menggunakan repl.it / VS Code
- - kemudian untuk menjalan program langkah pertama yang perlu dilakukan adalah dengan mengisi data diri dan data orang tua/wali
- - kemudian untuk langkah kedua yaitu menginputkan nilai sesuai dengan no pendaftaran 
- - lalu dilangkah ketiga kita bisa melihat informasi data diri yang sudah lengkap, baik data diri maupun nilai
- - dilangkah empat akan dilakukan penyeleksian yang nilainya telah ditentukan oleh program
- - untuk menu yang terakhir yaitu menu untuk keluar
+ - Clone this repo 
+ - Run program dengan menggunakan repl.it / VS Code
+ - Kemudian untuk menjalan program langkah pertama yang perlu dilakukan adalah dengan mengisi data diri dan data orang tua/wali
+ - Kemudian untuk langkah kedua yaitu menginputkan nilai sesuai dengan no pendaftaran 
+ - Lalu dilangkah ketiga kita bisa melihat informasi data diri yang sudah lengkap, baik data diri maupun nilai
+ - Dilangkah empat akan dilakukan penyeleksian yang nilainya telah ditentukan oleh program
+ - Untuk menu yang terakhir yaitu menu untuk keluar
 
 ## Class Diagram
 ![Class Diagram Tubes](https://user-images.githubusercontent.com/56437913/108015606-2624d580-7043-11eb-9f5a-72e97ed83cd9.jpg)
