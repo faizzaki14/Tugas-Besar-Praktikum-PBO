@@ -5,8 +5,8 @@ var app = (function() {
   //add data Siswa sebagai object
   function addDataSiswa() {
     //add data Siswa
-    console.log("\n<====== Formulir Registrasi ======>");
-    console.log("\n<======      Data Siswa      =====>");
+    console.log("\n<====== FORMULIR PENDAFTARAN ======>");
+    console.log("\n<======      DATA SISWA     =====>");
     nama = prompt("Nama Lengkap  : ")
     tempatTanggalLahir = prompt("Tempat Tanggal lahir : ")
     alamat = prompt("Alamat Saat ini : ")
