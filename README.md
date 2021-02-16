@@ -1,5 +1,5 @@
 # Tugas-Besar-Praktikum-PBO
-PROGRAM TUGAS BESAR MATAKULIAH PBO
+PROGRAM TUGAS BESAR MATAKULIAH PEMROGRAMAN BERBASIS OBJEK (PBO)
 ~~# Tugas Besar Prak PBO
 ## Program Sederhana Pendaftaran Siswa Baru menggunakan Java Script
 by kelompok 11 :
