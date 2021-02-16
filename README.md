@@ -5,7 +5,7 @@ KELAS S1SE03B REKAYASA PERANGKAT LUNAK IT TELKOM PURWOKERTO
 ## Program Sederhana Pendaftaran Siswa Baru menggunakan Java Script
 by kelompok 11 :
  - Faiz Zaki Ramadhan	- 19104075
- - Gilang Aditia  	- 19104043
+ - Gilang Aditia 	- 19104043
  - Reva Rahardian	- 19104076
 ## Latar Belakang	
 	Pada Tugas Besar Praktikum PBO ini, kelompok kami membuat sebuah program js tentang pendaftaran Siswa pada sample sekolah yang kami buat sendiri yaitu SMKN 1 RKPL. Nah nantinya program ini bertujuan untuk menentukan siswa tersebut lulus atau tidak, nantinya calon siswa bisa mengakses 4 case, yang dimana pada case 1 para calon siswa diminta untuk mengisi formulir pendaftaran, dengan mengisi data diri sendiri dan data orang tua/wali. 
