@@ -37,5 +37,5 @@ Adapun tujuan dibuatnya aplikasi ini adalah untuk menyeleksi/menyaring anak2 yan
 ## Kontribusi
 Faiz Zaki Ramadhan = bagian pembuatan program
 Gilang aditia = Membantu pembuatan program dan bertanggung jawab dalam pengeditan
-
+Reva Rahardian = Membuat Class diagram dan membantu pembuatan program
   
