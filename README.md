@@ -34,4 +34,8 @@ Adapun tujuan dibuatnya aplikasi ini adalah untuk menyeleksi/menyaring anak2 yan
 ## Link youtube
 [https://youtu.be/Ep7PVG0CrZ8]
 
+## Kontribusi
+Faiz Zaki Ramadhan = bagian pembuatan program
+Gilang aditia = Membantu pembuatan program dan bertanggung jawab dalam pengeditan
+
   
