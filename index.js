@@ -1,4 +1,4 @@
-// mendefinisikan data array kosong untuk data siswa
+//  mendefinisikan data array kosong untuk data siswa
 var sisArray = [];
 var app = (function() {
 
